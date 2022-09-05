@@ -10,11 +10,6 @@ Brittanee Santana | About me
 <meta name="viewport" content="width=device-width" />
 <meta charset="utf-8">
 
-h1 {
-  color: blue;
-  font-family: 'Times New Roman';
-  font-size: 16px;
-}
 
 </h1>
 <body>
